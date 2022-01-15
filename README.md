@@ -1,7 +1,7 @@
 # house_price
-house price 
 
-## 欠損値処理
+
+## 1/15 欠損値処理
 
 ### Discution
 
