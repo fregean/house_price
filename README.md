@@ -1,7 +1,7 @@
 # house_price
 
 
-## 1/15 欠損値処理
+## 欠損値処理 1/15 1/17
 
 ### Discution
 
@@ -10,3 +10,6 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/
 
 行方不明の値の代入
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/41682
+
+「LotFrontage」で欠落している値を処理するにはどうすればよいですか？
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/50085
