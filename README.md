@@ -32,6 +32,10 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/
 
 ### テストデータセットの欠落データの処理
 - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/35968
+- テストデータセット内の各IDを予測することになっているため、テストデータセット内の欠落データを処理する方法について混乱しています。これにより、テストデータセット内の行を削除できなくなります。
+また、列車内の欠落データを処理し、データセットを同じ方法でテストするかどうかも知りたいと思います。
+<img width="1196" alt="スクリーンショット 2022-01-18 11 55 19" src="https://user-images.githubusercontent.com/31781305/149862891-dd9c3a47-fa15-4304-9272-c135249714aa.png">
+
 
 ### 行方不明の値の代入
 - https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/41682
